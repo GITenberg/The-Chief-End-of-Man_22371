@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25293'
     url: http://www.gutenberg.org/2009/agents/25293
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22371#The-Chief-End-of-Man
 gutenberg_issued: '2007-08-22'
 gutenberg_type: Text
 identifiers:
